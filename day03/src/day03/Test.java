@@ -1,5 +1,5 @@
 package day03;
-//测试一下更新
+//这个是远程服务器
 public class Test {
 
 	public static void main(String[] args) {
