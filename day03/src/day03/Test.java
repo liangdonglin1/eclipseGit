@@ -4,7 +4,7 @@ public class Test {
 	//这个是客户端加服务器
 	public static void main(String[] args) {
 		System.out.println("第十次10");
-		//最后测试冲突
+		//最后测试冲突已解决  服务器也改动了
 	}
 
 }
